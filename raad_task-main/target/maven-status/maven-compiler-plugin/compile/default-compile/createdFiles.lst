@@ -1,0 +1,5 @@
+com\progressoft\tools\ScoringSummary.class
+com\progressoft\tools\Normalizer.class
+com\progressoft\tools\ScoringData\ScorData.class
+com\progressoft\tools\NormalizerData\NormalizerData.class
+com\progressoft\tools\NormalizerData\FileCsv.class
